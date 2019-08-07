@@ -1,0 +1,194 @@
+/* .header {
+
+} */
+
+
+/* 头部广告---------------- */
+
+
+.header .top_banner {
+    height: 80px;
+    background-color: #000; 
+}
+.header .top_banner .w {
+    position: relative;
+}
+.close {
+    width: 20px;
+    height: 20px;
+    color: white;
+    background-color: #818181;
+    text-align: center;
+    line-height: 20px;
+    position: absolute;
+    right: 0;
+    top: 10px;
+    /* 设置鼠标放上去变是手 */
+    cursor: pointer;
+}
+.close:hover {
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+
+
+
+
+/* 顶部导航 */
+
+
+
+.top_nav {
+    height:30px ;
+    background-color: #e5e6e3;
+    border-bottom: 1px solid  #cbcbcb;
+    line-height:30px;
+}
+.top_nav .line {
+    height: 15px;
+    width: 2px;
+    background-color: #cecfc5;
+    margin:6px 15px 0 15px;
+}
+.top_nav .iconfont {
+    margin-left: 5px;
+}
+
+
+
+
+
+/* 搜索栏--------------- */
+
+
+
+.search {
+    height: 105px;
+    /* background-color: aqua; */
+}
+.search .logo {
+    margin-top:27px ;
+}
+.search .search_box {
+    border: 1px solid red;
+    margin-top: 27px;
+    margin-left: 212px;
+    padding-left: 10px;
+    box-sizing: border-box;
+    position: relative;
+}
+.st {
+    width: 445px;
+    height: 32px;
+}
+.sb {
+    height: 32px;
+    width: 60px;
+    background-color: red;
+}
+.search .icon-sousuo {
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    margin-top: -8px;
+    color: #fff;
+}
+
+
+/* 购物车-------------- */
+
+
+
+.buy_car {
+    height: 32px;
+    width:188px ;
+    margin-top: 27px;
+    margin-left: 81px;
+    text-align: center;
+    line-height: 32px;
+    border:1px solid #cacaca ;
+    position: relative;
+}
+.buy_car a {
+    color: #656565;
+}
+.buy_car .icon-gouwuchetianjia {
+    color: red;
+}
+.buy_car  span {
+    display: block;
+    height: 18px;
+    line-height: 18px;
+    width: 18px;
+    background-color: red;
+    color: #fff;
+    border-radius: 9px 9px 9px 0;
+    position: absolute;
+    top:-9px;
+    right: 20px;
+}
+.cheap {
+    margin-left: 212px;
+    margin-top: 5px;
+}
+.cheap a {
+    font-size: 12px;
+}
+.cheap .left {
+    margin-right: 15px;
+}
+
+
+
+/* 商品 */
+
+
+
+.content1 {
+    height: 45px;
+    border-bottom: 2px solid #ca0100;
+}
+.content1 .shangpin {
+    height: 45px ;
+    width: 210px;
+}
+.content1 .shangpin p {
+    height:45px ;
+    width: 210px;
+    text-align: center;
+    line-height:45px ;
+    background-color: #c90000;
+    color:#fff ;
+    font-size: 20px;
+    font-weight: 700;
+}
+.content1 .list {
+    height:463px ;
+    width: 210px;
+    background-color:#e20200;
+    overflow: hidden;
+    
+}
+.content1 .list span {
+    font-family: "宋体";
+}
+.content1 .list ul li a {
+    height: 31px;
+    line-height: 31px;
+    color: #fff;
+    display: block;
+    padding: 0 16px;
+}
+
+.content1 .list a:hover {
+    background-color:blue;
+}
+.con_nav ul {
+    margin-left: 63px;
+    margin-bottom: 13px;
+}
+.con_nav ul  li a {
+    font-size: 20px;
+    font-weight: 700;
+    margin-right: 22px;
+}

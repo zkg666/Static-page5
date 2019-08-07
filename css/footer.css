@@ -1,0 +1,67 @@
+/* 上------------------------- */
+
+.footer {
+    background-color: #dfdfda;
+    margin-top: 30px;
+}
+.footer1 {
+    height: 110px;
+    border-bottom: 1px solid #cdcdc8;
+    padding-top: 37px;
+    padding-left: 42px;
+    box-sizing: border-box;
+}
+.footer1 .footer1_1 {
+    height: 51px;
+    width: 229px;
+}
+.zheng {
+    height: 53px;
+    width: 51px;
+    background-color: red;
+    background: url("../img/icons.png") no-repeat -253px 0;
+}
+.footer1_1 .text p:nth-child(1) {
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+
+/* 中---------------------------------- */
+
+.footer2 {
+    height: 190px;
+    border-bottom: 1px solid #cdcdc8;
+    overflow: hidden;
+}
+.footer2 .lis {
+    margin-top: 22px;
+    margin-left: 42px;
+}
+.footer2 .lis dl {
+    margin-right: 120px;
+}
+.footer2 .lis :nth-child(6) {
+    margin-right: 0;
+    text-align: center;
+}
+.footer2 .lis dl dt {
+    margin-bottom: 2px;
+}
+.footer2 .lis dl dd {
+    font-size: 18px;
+    margin-bottom: 10px;
+
+}
+
+
+/* 下--------------------------- */
+
+
+
+
+.footer3 p {
+    text-align: center;
+    margin-top: 10px;
+}

@@ -1,0 +1,219 @@
+.bgc {
+    background:url("../uploads/jd_bg.png") no-repeat;
+    background-position: -200px 50px;
+
+}
+.banner {
+    margin-top: 6px;
+    height: 455px;
+}
+.banner_zuo {
+    margin-left:214px;
+    margin-right: 3px;
+}
+.banner_you {
+    width: 250px;
+    height: 453px;
+    border: 1px solid #ccc;
+
+}
+.banner_you .shang {
+    height: 31px;
+    border-bottom: 1px dashed #ccc;
+    padding:5px 10px ;
+    box-sizing: border-box;
+}
+.banner_you .shang {
+    font-weight: 700;
+}
+.banner_you .zhong {
+    height: 127px;
+    padding: 12px 18px;
+    box-sizing: border-box;
+}
+.banner_you .zhong ul li {
+    margin-bottom: 3px;
+}
+.banner_you .xia {
+    height: 209px;
+}
+.banner_you .xia table {
+    height: 209px;
+    width: 252px;
+    border-collapse: collapse;
+    text-align: center;
+    margin-left: -1px;
+}
+.banner_you .xia table tr,
+.banner_you .xia table td {
+    border: 1px solid #ccc;
+}
+.banner_you .xia table i {
+    font-size: 24px;
+    color: red;
+}
+.banner_you .zuixia {
+    margin-top: 9px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* 推荐 ------------------------------*/
+
+
+
+
+
+.content_tuijian {
+    height: 161px;
+    margin-top: 20px;
+}
+.content_tuijian .content_one {
+    height: 100%;
+    width:200px ;
+    background-color: #60504c;
+    text-align: center;
+    padding-top: 20px;
+    box-sizing: border-box;
+}
+.content_tuijian .content_one p {
+    font-size: 20px;
+    color: #fff;
+    margin-top: 20px;
+}
+.content_two .biankuang {
+    margin-top: 5px;
+    border-right: 1px solid #ccc;
+    height:143px ;
+    width: 246px;
+}
+.content_two .la {
+    border-right: none;
+}
+.content_two .biankuang img {
+    width: 246px;
+}
+.content_two {
+    height:161px ;
+    width: 990px;
+    background-color:#ebebeb ;
+}
+
+
+/* 标题-------------- */
+
+
+.content_dianqi {
+    margin-top: 20px;
+}
+.content_dianqi .title {
+    height: 26px;
+    border-bottom: 2px solid red;
+    
+}
+.content_dianqi .title span {
+    font-size: 16px;
+}
+.content_dianqi ul .line {
+    width: 1px;
+    height: 10px;
+    background-color: #ccc;
+    margin: 5px 12px;
+}
+
+
+
+.content_dianqi .tupian {
+    overflow: hidden;
+}
+.tupian .t_z li {
+    text-align: center;
+    width: 81px;
+    height: 20px;
+    border-bottom: 1px solid #ccc;
+    margin-right: 5px;
+}
+.tupian .t_z li a {
+    font-size: 12px;
+}
+.tupian .t_z_z .list1 {
+    height: 69px;
+    width: 188px;
+    margin-top: 10px;
+}
+.tupian .t_z_z {
+    height: 361px;
+    width: 188px;
+}
+.tupian .t_z_z .sanxing {
+    margin-top: 20px;
+}
+
+.tupian .t_z_y {
+    height: 360px;
+    width: 329px;
+    margin-left: 13px;
+}
+
+
+
+
+.tupian .t_y ul .t_y_1 {
+    height: 180px;
+    width: 219px;
+    border-bottom: 1px solid #ccc;
+}
+.tupian .t_y ul .t_y_2 {
+    height: 359px;
+    width:220px ;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+}
+
+
+
+/* 大牌日 */
+.beijing {
+    /* height:590px ; */
+    /* background: url("../uploads/bg.png") no-repeat;
+    background-position: center;*/
+    margin-top: 30px; 
+    text-align: center;
+}
+.beijing  {
+    position: relative;
+}
+.beijing .fenkuai1 {
+    position: absolute;
+    top: 150px;
+    left: 160px;
+}
+.beijing .fenkuai1 a {
+    margin-right: 5px;
+}
+.beijing .fenkuai2 a {
+    margin-right: 5px;
+}
+.beijing .fenkuai2 {
+    position: absolute;
+    top: 368px;
+    left: 160px;
+}
+.beijing .fenkuai3{
+    position: absolute;
+    top: 150px;
+    right: 170px;
+
+}
+.beijing .fenkuai3 a {
+    display: block;
+    margin-bottom: 10px; 
+}
